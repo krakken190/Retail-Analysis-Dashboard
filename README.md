@@ -48,7 +48,7 @@ columns.
 
 ○ Frequency of Purchases
 
-## Questions to Answer Using the Dashboard
+## Questions for Analysis
 *1. Sales Distribution by Category: What is the total sales amount for each product
 category?*
 
